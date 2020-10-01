@@ -1,4 +1,4 @@
-# libbrowserid sample code
+# libbrowserid sample code for C Learners
 
 The sample directory contains some example code.
 
@@ -22,5 +22,5 @@ API.
 ## bidcfverify
 
 bidcfverify is a variant of bidverify implemented using the CoreFoundation
-BrowserID API.
+BrowserID API of c.
 
